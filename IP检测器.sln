@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IP检测器", "IP检测器\IP检测器.vbproj", "{66558F93-BCFD-4666-9292-4F0C5878D534}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66558F93-BCFD-4666-9292-4F0C5878D534}.Debug|x86.ActiveCfg = Debug|x86
+		{66558F93-BCFD-4666-9292-4F0C5878D534}.Debug|x86.Build.0 = Debug|x86
+		{66558F93-BCFD-4666-9292-4F0C5878D534}.Release|x86.ActiveCfg = Release|x86
+		{66558F93-BCFD-4666-9292-4F0C5878D534}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
